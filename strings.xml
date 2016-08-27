@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArtToursCatalog</string>
+    <string name="action_settings">Settings</string>
+    <string name="catalog_title">MBCAC Art Tour 2015</string>
+</resources>
